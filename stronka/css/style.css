@@ -28,7 +28,7 @@ overflow:hidden;}
 font-size:14px;}
 #menu ul li {list-style-type:none;
 padding:0 0 0 10px;}
-@media only screen and (max width:900px) {
+@media only screen and (max-width:900px) {
 	#menu{font:80% calibri; width:88%; position:absolute;height:30px;}
 	#menu h5{display:none;}
 	#menu ul li{display:inline;}
